@@ -15,8 +15,8 @@ I am open to collaborating on projects, learning new concepts, and broadening my
 
 For any queries or discussions, feel free to connect with me 
 via email: xuxingsheng163@gmail.com 
-or 
-LinkedIn: https://www.linkedin.com/in/xingsheng-xu 
+
+or LinkedIn: https://www.linkedin.com/in/xingsheng-xu 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake-dark.svg">
