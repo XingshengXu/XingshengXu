@@ -1,6 +1,19 @@
-### Welcome to my GitHub!
+Welcome to My GitHub Repository :wave:
 
-Here, I share with you various projects including Python Learning, Game Development, Machine Learning, etc. Let's work hard, play harder!
+In this ever-expanding universe of my GitHub, I dedicate my energy to sharing my growth journey in various tech realms. I strongly believe that learning is an infinite process, and I strive to make this platform a means of demonstrating my perseverance and passion for technology.
+
+:computer: What can you expect?
+Python Learning :snake:
+Game Development :video_game:
+Machine Learning :robot:
+
+:rocket: My Motto
+"Work Hard, Play Harder!"
+
+:handshake: Collaboration
+I am open to collaborating on projects, learning new concepts, and broadening my horizons. Feel free to fork the repos, raise PRs, and suggest any improvements or new cool stuff.
+
+For any queries or discussions, feel free to connect with me via email: xuxingsheng163@gmail.com or LinkedIn: https://www.linkedin.com/in/xingsheng-xu 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake-dark.svg">
