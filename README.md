@@ -19,8 +19,8 @@ via email: xuxingsheng163@gmail.com
 
 or LinkedIn: https://www.linkedin.com/in/xingsheng-xu 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+Dark Theme:  
+![Snake Dark](url-for-github-snake-dark.svg)
+
+Light Theme:  
+![Snake Light](url-for-github-snake.svg)
