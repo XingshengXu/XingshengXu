@@ -19,8 +19,8 @@ via email: xuxingsheng163@gmail.com
 
 or LinkedIn: https://www.linkedin.com/in/xingsheng-xu 
 
-Dark Theme:  
-![Snake Dark](url-for-github-snake-dark.svg)
-
-Light Theme:  
-![Snake Light](url-for-github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
