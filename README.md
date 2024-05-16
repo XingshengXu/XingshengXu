@@ -15,7 +15,7 @@ I am open to collaborating on projects, learning new concepts, and broadening my
 
 For any queries or discussions, feel free to connect with me 
 
-via email: xuxingsheng163@gmail.com 
+via email: cyberhongtu@outlook.com
 
 or My Blog: https://cyberhongtu.com
 
