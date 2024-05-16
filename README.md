@@ -17,7 +17,7 @@ For any queries or discussions, feel free to connect with me
 
 via email: xuxingsheng163@gmail.com 
 
-or LinkedIn: https://www.linkedin.com/in/xingsheng-xu 
+or My Blog: https://cyberhongtu.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
